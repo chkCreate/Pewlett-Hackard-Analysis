@@ -12,7 +12,7 @@ From the analysis, there were four major points from the two analysis deliverabl
 * Senior Engineers and Senior Staffs are leaving the company at the highest numbers, a little over 28,000 employees as you can see in the figure 1 below. These positions need to focused on the most to fill the void in the next few years. The employees at the next level down (ex. Engineer and Staff) should be paired up with current employees reaching retirement age in a mentorship program. 
 
 <p align="center">
-  <img width="300" height="150" src= "https://github.com/chkCreate/Pewlett-Hackard-Analysis/blob/2a3ca2f934cd9cfa40366c284d8850d7ce7d74db/Data/1.3.PNG" >
+  <img width="300" height="300" src= "https://github.com/chkCreate/Pewlett-Hackard-Analysis/blob/2a3ca2f934cd9cfa40366c284d8850d7ce7d74db/Data/1.3.PNG" >
 </p>
 
 * Engineers and Staff leaving with the "silver tsunami" are in between 12,000 and 14,000. So those employees in that pool should be excluded from those included in the training efforts. 
@@ -34,7 +34,7 @@ There were two questions raised regarding the upcoming "silver tsunami:
 There are not enough qualified, retirement-ready employess in the departments to mentor the next generation of employees. See figure 2 below, which shows the total of employees eligible for mentorship per title. Comparing the number of employees getting ready for retirement and the number of employees eligible for mentorships, the average ratio is 63, which suggests that one mentor would have to train around 63 employees for their roles. It is highly recommended that the mentorship program is in place as soon as possible and increase efforts for recruitment as well.
   
 <p align="center">
-  <img width="300" height="150" src= "https://github.com/chkCreate/Pewlett-Hackard-Analysis/blob/2a3ca2f934cd9cfa40366c284d8850d7ce7d74db/Data/Mentor_Table.PNG" >
+  <img width="300" height="250" src= "https://github.com/chkCreate/Pewlett-Hackard-Analysis/blob/2a3ca2f934cd9cfa40366c284d8850d7ce7d74db/Data/Mentor_Table.PNG" >
 </p>
   
 ## References
